@@ -1,2 +1,2 @@
-# aoc-2020
-Solutions for Advent of Code 2020
+# Advent of Code 2020
+My solutions for Advent of Code 2020
